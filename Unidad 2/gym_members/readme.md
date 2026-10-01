@@ -1,4 +1,4 @@
-Claro. Aquí tienes el contenido en **formato Markdown**, listo para copiar y pegar:
+
 
 ```
 # Acerca del conjunto de datos
