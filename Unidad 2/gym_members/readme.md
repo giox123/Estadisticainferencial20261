@@ -1,5 +1,3 @@
-
-```
 # Acerca del conjunto de datos
 
 Este conjunto de datos ofrece una visión detallada de las **rutinas de ejercicio, los atributos físicos y las métricas de aptitud física** de los socios del gimnasio.
